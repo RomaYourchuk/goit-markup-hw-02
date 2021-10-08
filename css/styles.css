@@ -63,12 +63,10 @@ body {
     cursor: pointer;
 }
 
-.button:hover {
+.button:hover, button:focus {
     color: var(--logo-text-color);
 }
-.button:focus {
-    color: var(--logo-text-color);
-}
+
 
 .project-name {
 font-weight: bold;
