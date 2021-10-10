@@ -129,6 +129,10 @@ color: var(--primary-text-color);
     color: var(--logo-text-color);
 }
 
+.name-link.current {
+    color: var(--logo-text-color);
+}
+
 
 .header-mail-contact, .header-tel-contact {
     font-weight: 500;
